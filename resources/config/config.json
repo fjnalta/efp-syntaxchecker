@@ -1,0 +1,6 @@
+{"file-name":{"name" :"FileServer", "use": "true"},
+ "file-type":{"name" :"java", "use": "true"},
+ "importOrder":{"name" :"import", "use": "true"},
+ "package":{"name" :"package", "use": "true"},
+ "packageName":{"name" :"var.mom.jms.file", "use": "true"},
+ "entryPoint":{"name" :"static void main(String [] args)", "use": "true"}}
